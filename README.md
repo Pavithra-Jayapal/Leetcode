@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Array
 |  |
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
 | ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Tree
 |  |
