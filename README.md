@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0342-power-of-four) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0342-power-of-four) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,9 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
