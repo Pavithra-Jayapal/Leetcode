@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0682-baseball-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0682-baseball-game) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1293-three-consecutive-odds](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1791-richest-customer-wealth](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0682-baseball-game) |
 ## Greedy
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0682-baseball-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
