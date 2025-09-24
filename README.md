@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3194-find-words-containing-character](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3194-find-words-containing-character](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |
