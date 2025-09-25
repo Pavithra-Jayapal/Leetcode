@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -201,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
