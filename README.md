@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0682-baseball-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0682-baseball-game) |
+| [0747-min-cost-climbing-stairs](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1293-three-consecutive-odds](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0322-coin-change) |
+| [0747-min-cost-climbing-stairs](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
