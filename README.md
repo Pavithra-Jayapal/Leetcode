@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0682-baseball-game) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1293-three-consecutive-odds](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0342-power-of-four) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
