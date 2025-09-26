@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
