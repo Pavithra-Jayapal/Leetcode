@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1610-xor-operation-in-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0342-power-of-four) |
+| [1610-xor-operation-in-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Linked List
 |  |
 | ------- |
