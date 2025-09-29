@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0063-unique-paths-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0063-unique-paths-ii) |
 | [1791-richest-customer-wealth](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Memoization
 |  |
