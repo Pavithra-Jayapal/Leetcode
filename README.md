@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2159-two-out-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2159-two-out-of-three) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2159-two-out-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2159-two-out-of-three) |
 ## Counting
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2159-two-out-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2159-two-out-of-three) |
 ## Linked List
 |  |
 | ------- |
