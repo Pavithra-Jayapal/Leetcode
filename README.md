@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0645-set-mismatch](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0682-baseball-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0682-baseball-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0645-set-mismatch](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0645-set-mismatch) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [3226-minimum-number-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3321-type-of-triangle) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0645-set-mismatch) |
 | [1610-xor-operation-in-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2159-two-out-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2159-two-out-of-three) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
