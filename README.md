@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0645-set-mismatch) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -292,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
