@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0136-single-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0645-set-mismatch) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0645-set-mismatch) |
@@ -307,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
