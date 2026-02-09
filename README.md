@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0169-majority-element) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0326-power-of-three) |
