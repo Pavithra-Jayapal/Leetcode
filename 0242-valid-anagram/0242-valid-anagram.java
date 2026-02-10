@@ -1,18 +1,24 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if (s.length() != t.length()) {
-            return false;
+        HashMap<Character,Integer> map=new HashMap<>();
+        for(int i=0;i<s.length();i++){
+            char ch=s.charAt(i);
+            map.put(ch,map.getOrDefault(ch,0)+1);
         }
-        int[] freq = new int[26]; // for lowercase English letters
-        for (int i = 0; i < s.length(); i++) {
-            freq[s.charAt(i) - 'a']++;
-            freq[t.charAt(i) - 'a']--;
-        }
-        for (int count : freq) {
-            if (count != 0) {
+        for(int i=0;i<t.length();i++){
+            char ch=t.charAt(i);
+            if(map.containsKey(ch)){
+                if(map.get(ch)==1){
+                    map.remove(ch);
+                }
+                else{
+                    map.put(ch,map.getOrDefault(ch,0)-1);
+                }
+            }
+            else{
                 return false;
             }
         }
-        return true;
+        return map.isEmpty();
     }
 }
