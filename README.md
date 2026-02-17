@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
