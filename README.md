@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0414-third-maximum-number) |
