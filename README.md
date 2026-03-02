@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0066-plus-one) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0063-unique-paths-ii) |
