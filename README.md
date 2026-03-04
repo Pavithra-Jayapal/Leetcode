@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0564-find-the-closest-palindrome](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0742-to-lower-case) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0564-find-the-closest-palindrome](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
