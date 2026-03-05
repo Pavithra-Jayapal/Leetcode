@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0742-to-lower-case) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
