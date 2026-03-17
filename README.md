@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2159-two-out-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2159-two-out-of-three) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3226-minimum-number-game) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
 | ------- |
