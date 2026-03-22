@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0564-find-the-closest-palindrome](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0670-maximum-swap](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1323-maximum-69-number) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0670-maximum-swap](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0670-maximum-swap) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1323-maximum-69-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
