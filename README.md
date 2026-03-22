@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1695-maximum-erasure-value](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1791-richest-customer-wealth](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1833-maximum-ice-cream-bars](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1323-maximum-69-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1323-maximum-69-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1833-maximum-ice-cream-bars](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3226-minimum-number-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3321-type-of-triangle) |
 ## Monotonic Stack
@@ -501,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
