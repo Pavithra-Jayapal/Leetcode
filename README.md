@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Segment Tree
 |  |
 | ------- |
@@ -524,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
