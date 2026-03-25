@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1537-get-the-maximum-score](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1537-get-the-maximum-score](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1539-kth-missing-positive-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1695-maximum-erasure-value](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1695-maximum-erasure-value) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1323-maximum-69-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1323-maximum-69-number) |
 | [1400-construct-k-palindrome-strings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
+| [1537-get-the-maximum-score](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1537-get-the-maximum-score](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1537-get-the-maximum-score) |
 ## Matrix
 |  |
 | ------- |
