@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1539-kth-missing-positive-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1791-richest-customer-wealth](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1539-kth-missing-positive-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1400-construct-k-palindrome-strings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1695-maximum-erasure-value) |
 ## Math
 |  |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
