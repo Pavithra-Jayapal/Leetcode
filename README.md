@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0896-monotonic-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0994-rotting-oranges) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1400-construct-k-palindrome-strings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1695-maximum-erasure-value) |
 ## Math
 |  |
