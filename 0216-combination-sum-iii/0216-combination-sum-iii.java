@@ -5,7 +5,7 @@ class Solution {
             return;
         }
         for(int i=ind;i<10;i++){
-            if(i>n) return;
+            if(i>n) break;
             else{
                 ans.add(i);
                 combsum(i+1,k-1,n-i,res,ans);
