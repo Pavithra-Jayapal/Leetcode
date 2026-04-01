@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1537-get-the-maximum-score](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1537-get-the-maximum-score) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
