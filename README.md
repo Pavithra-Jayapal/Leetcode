@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
