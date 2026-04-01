@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-three-consecutive-odds](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1537-get-the-maximum-score](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1537-get-the-maximum-score) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1537-get-the-maximum-score](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 ## Matrix
