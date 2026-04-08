@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1539-kth-missing-positive-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0868-binary-gap) |
