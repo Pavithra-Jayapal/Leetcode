@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0139-word-break) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0139-word-break) |
