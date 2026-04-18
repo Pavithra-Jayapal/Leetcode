@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3321-type-of-triangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
 |  |
 | ------- |
