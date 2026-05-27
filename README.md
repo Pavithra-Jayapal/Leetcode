@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3312-number-of-changing-keys) |
 ## Array
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2159-two-out-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2159-two-out-of-three) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## Counting
