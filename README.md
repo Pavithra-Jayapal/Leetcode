@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## Binary Search
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1537-get-the-maximum-score](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
