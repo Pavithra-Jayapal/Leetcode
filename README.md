@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 ## Iterator
 |  |
 | ------- |
