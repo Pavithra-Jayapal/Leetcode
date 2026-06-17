@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0204-count-primes) |
+| [0282-expression-add-operators](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0679-24-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0679-24-game) |
