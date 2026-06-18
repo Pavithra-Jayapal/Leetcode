@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0139-word-break) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0139-word-break) |
