@@ -25,6 +25,24 @@ class Solution {
         int target=sum/2;
         int n=nums.length;
         Boolean dp[][]=new Boolean[n][target+1];
-        return part(nums,n-1,target,dp);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<=target;j++){
+                if(i==0){
+                  dp[i][j]=(nums[0]==j);
+                  continue;
+                  }
+                  if(j==0){
+                    dp[i][0]= true;
+                    continue;
+                 }
+        boolean not_take=dp[i-1][j];
+        boolean take=false;
+        if(nums[i]<=j){
+            take=dp[i-1][j-nums[i]];
+        }
+        dp[i][j]=not_take||take;
+            }
+        }
+        return dp[n-1][target];
     }
 }
