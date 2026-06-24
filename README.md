@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1537-get-the-maximum-score](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1539-kth-missing-positive-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1695-maximum-erasure-value) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3226-minimum-number-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3226-minimum-number-game) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1537-get-the-maximum-score](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1537-get-the-maximum-score) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 ## Matrix
 |  |
