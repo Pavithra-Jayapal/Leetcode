@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0896-monotonic-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0733-flood-fill) |
+| [0773-sliding-puzzle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0994-rotting-oranges) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0773-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0733-flood-fill) |
+| [0773-sliding-puzzle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0139-word-break) |
+| [0773-sliding-puzzle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0773-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
@@ -692,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0679-24-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0679-24-game) |
+| [0773-sliding-puzzle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0773-sliding-puzzle) |
 | [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 ## Iterator
 |  |
