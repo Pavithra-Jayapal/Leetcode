@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0773-sliding-puzzle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0896-monotonic-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0773-sliding-puzzle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
