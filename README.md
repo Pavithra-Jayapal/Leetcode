@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-number-of-ways-to-earn-points](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-find-words-containing-character](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3321-type-of-triangle) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2159-two-out-of-three](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2159-two-out-of-three) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3226-minimum-number-game](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Pavithra-Jayapal/Leetcode/tree/master/3321-type-of-triangle) |
 ## Monotonic Stack
